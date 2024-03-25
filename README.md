@@ -5,7 +5,7 @@
 ![Icono de PacMan](https://github.com/cesaranibaljimenez/PacMen-Exercise/blob/main/PacMan1.png?raw=true)
 
 ## ¿Cómo ejecutarlo?
-1. Clona este repositorio en tu máquina local.
+1. Clona este repositorio en tu máquina local: https://github.com/cesaranibaljimenez/PacMen-Exercise
 2. Abre el archivo 'index.html' en tu navegador web.
 3. Observa como los Pac-Men se mueven y rebotan en la pantalla.
 
